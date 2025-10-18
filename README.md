@@ -1,6 +1,7 @@
 #  Vignan HUB
 **Team Name:** AV CodeHack  
 **Platform Type:** Learning Management System (LMS)
+
 **Working url of Project :** https://vignan-hub-av.base44.app
 **Team Lead Contact :**[venupasumurthy0509@gmail.com]
 
@@ -125,5 +126,6 @@ The platform allows easy management of courses, assignments, grades, and communi
 ## Contact
 **Team AV CodeHack**  
 For queries , reach us at: [venupasumurthy0509@gmail.com] and phone:8106938278
+
 
 

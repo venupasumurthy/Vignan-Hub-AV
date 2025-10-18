@@ -3,9 +3,8 @@
 # 🧠 **Vignan HUB**
 ### _"Driven by purpose, powered by code"_
 
-**Team Name:** 🥇 AV CodeHack  
-**Contact:** ✉️ [venupasumurthy0509@gmail.com] | 📞 +91 8106938278  
-**Live Project URL:** 🌐 [https://vignan-hub-av.base44.app](https://vignan-hub-av.base44.app)
+🌐 **Live Project:** [https://vignan-hub-av.base44.app](https://vignan-hub-av.base44.app)  
+🥇 **Team Name:** AV CodeHack  
 
 ![Vignan Hub Banner](https://imgur.com/EQm6vH2.png)
 
@@ -14,8 +13,8 @@
 ---
 
 ## 🏫 Overview
-**Vignan HUB** is an interactive **Learning Management System (LMS)** designed to streamline online education for both **students** and **teachers**.  
-The platform allows seamless course management, assignment handling, grading, and communication — providing an engaging and organized digital learning experience.
+**Vignan HUB** is an interactive **Learning Management System (LMS)** designed to simplify and enhance online education for both **students** and **teachers**.  
+It enables seamless management of courses, assignments, grades, and communication — providing a structured and engaging learning environment.
 
 ---
 
@@ -32,54 +31,52 @@ The platform allows seamless course management, assignment handling, grading, an
 
 ### 🔐 Authentication
 - Secure **Sign Up / Sign In** for both students and teachers.  
-- **Role-based access control (RBAC)** at login (Teacher/Student).  
+- Role-based dashboards for **Teachers** and **Students**.
 
 ---
 
 ### 👩‍🏫 Teacher Functionalities
-- Create and manage **courses** (add topics, upload materials).  
-- Upload **assignments** with submission deadlines.  
+- Create and manage **courses** with materials and resources.  
+- Upload **assignments** and set submission deadlines.  
 - **Evaluate** submissions and assign grades.  
-- Award **badges & points** for student performance.  
-- Design **roadmaps** for guided learning journeys.  
+- Award **badges and points** for student performance.  
+- Create **roadmaps** for structured learning paths.  
 - Post **announcements/circulars** for updates.  
-- View **leaderboard** of top-performing teachers.  
+- View **leaderboard** to identify top teachers.  
 
 ---
 
 ### 👨‍🎓 Student Functionalities
 - Browse and **enroll** in available courses.  
-- Access **learning materials** and submit assignments.  
-- View **grades and performance** through downloadable CSV.  
-- Track **badges and points** earned through assessments.  
-- Follow **teacher-created roadmaps** for structured learning.  
-- Receive **notifications** for updates, new courses, or circulars.  
-- Interact through the **“Have a Doubt?”** section.
+- Access **learning materials** and **submit assignments**.  
+- Track **grades, progress, and badges** earned.  
+- **Download grade sheets** in CSV format.  
+- Follow **teacher roadmaps** for guided learning.  
+- Receive **notifications** for new updates.  
+- Interact through the **“Have a Doubt?”** section.  
 
 ---
 
 ### ✨ Additional Features
 - **Grade Sheet Export (CSV)**  
 - **Badges & Points System**  
-- **Leaderboard for Teachers**  
+- **Teacher Leaderboard**  
 - **In-App Notifications**  
-- **AI-powered Roadmaps (Future Ready)**
+- **AI-powered Roadmaps (Future Scope)**  
 
 ---
 
 ## ⚙️ Working Flow
 
 ### 🧩 1️⃣ Registration & Login
-- Role-based sign-up (Teacher or Student).  
-- Authenticated access with Base44 Auth integration.  
+- Role-based authentication using **Base44 Auth**.  
+- Users select their role (**Teacher** or **Student**) at signup.  
 
 ### 🧭 2️⃣ Teacher Dashboard
-- Manage courses, assignments, and roadmaps.  
-- Evaluate students and post circulars.
+- Manage **courses**, **assignments**, **grades**, and **announcements**.  
 
 ### 🎓 3️⃣ Student Dashboard
-- View enrolled courses, grades, and badges.  
-- Submit work and track progress.
+- Access **courses**, **assignments**, **grades**, and **badges** in one interface.  
 
 ---
 
@@ -91,7 +88,7 @@ The platform allows seamless course management, assignment handling, grading, an
 | **Backend** | Node.js, Express.js |
 | **Database** | Versal |
 | **Authentication** | Base44 Auth |
-| **Storage** | Cloud Storage |
+| **File Storage** | Cloud Storage |
 | **Version Control** | GitHub |
 
 ---

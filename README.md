@@ -4,6 +4,7 @@
 ### _"Driven by purpose, powered by code"_
 
 🌐 **Live Project:** [https://vignan-hub-av.base44.app](https://vignan-hub-av.base44.app)  
+
 🥇 **Team Name:** AV CodeHack  
 
 ![Vignan HUB Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/images/banner.png)
@@ -96,7 +97,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🧱 Flow of code Diagram :
 
-![Vignan HUB Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/images/banner.png)
+![Vignan HUB Banner]()
 
 ---
 
@@ -106,6 +107,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 |------|------|-----------|
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
+
 
 
 

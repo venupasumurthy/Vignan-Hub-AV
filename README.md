@@ -1,133 +1,116 @@
-#  Vignan HUB
-**Team Name:** AV CodeHack  
-**Platform Type:** Learning Management System (LMS)
+<div align="center">
 
-**Working url of Project :** https://vignan-hub-av.base44.app
+# 🧠 **Vignan HUB**
+### _"Driven by purpose, powered by code"_
 
-**Team Lead Contact :**[venupasumurthy0509@gmail.com]
+**Team Name:** 🥇 AV CodeHack  
+**Contact:** ✉️ [venupasumurthy0509@gmail.com] | 📞 +91 8106938278  
+**Live Project URL:** 🌐 [https://vignan-hub-av.base44.app](https://vignan-hub-av.base44.app)
 
----
+![Vignan Hub Banner](https://imgur.com/EQm6vH2.png)
 
-## Overview
-**Vignan HUB** is an interactive Learning Management System (LMS) designed to streamline online education for both **students** and **teachers**.  
-The platform allows easy management of courses, assignments, grades, and communication between teachers and learners — providing an engaging and organized digital learning experience.
-
----
-
-## Team
-**Team Name:** AV CodeHack  
-**Members:**  
-- (Pasumurthy Venu Munendra Kumar , Natesan Aishwarya)
-**Linked In:**  
-- **Members:**  
-- https://www.linkedin.com/in/venupasumurthy/
-- http://www.linkedin.com/in/aishwarya-natesan-bb48a1360
+</div>
 
 ---
 
-## Project Features
-
-### Authentication
-- **Sign Up / Sign In** for both students and teachers.  
-- Role-based access: choose **Teacher** or **Student** during registration.
+## 🏫 Overview
+**Vignan HUB** is an interactive **Learning Management System (LMS)** designed to streamline online education for both **students** and **teachers**.  
+The platform allows seamless course management, assignment handling, grading, and communication — providing an engaging and organized digital learning experience.
 
 ---
 
-### Teacher Functionalities
-- **Create and manage courses** (add topics, resources, and materials).  
-- **Upload assignments** and define submission deadlines.  
-- **Evaluate student submissions** and assign grades.  
-- **Award badges and points** for performance.  
-- **Create roadmaps** for guided learning journeys.  
-- **Post announcements/circulars** to communicate updates.  
-- **View leaderboard** to track top-performing teachers.  
+## 👥 Team
+
+| Name | Role | LinkedIn |
+|------|------|-----------|
+| **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
+| **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
 ---
 
-### Student Functionalities
-- **Browse and enroll** in available courses.  
-- **Access course materials** and submit assignments.  
-- **Track grades and progress** using downloadable grade sheets (CSV).  
-- **View badges and points** earned through assessments.  
-- **Follow roadmaps** shared by teachers for structured learning.  
-- **Receive notifications** for new courses, updates, or circulars.  
-- **Interact with teachers** through the “Have a Doubt?” section.
+## 🚀 Project Features
+
+### 🔐 Authentication
+- Secure **Sign Up / Sign In** for both students and teachers.  
+- **Role-based access control (RBAC)** at login (Teacher/Student).  
 
 ---
 
-### Additional Features
-- **Grade Sheet Export:** Students can download grades in CSV format.  
-- **Roadmaps:** Teacher-created learning paths that students can follow.  
-- **Badges & Points:** Motivational system for student engagement.  
-- **Leaderboard:** Recognizes top teachers based on performance metrics.  
-- **Notifications:** In-app alerts for activities, course updates, and announcements.  
+### 👩‍🏫 Teacher Functionalities
+- Create and manage **courses** (add topics, upload materials).  
+- Upload **assignments** with submission deadlines.  
+- **Evaluate** submissions and assign grades.  
+- Award **badges & points** for student performance.  
+- Design **roadmaps** for guided learning journeys.  
+- Post **announcements/circulars** for updates.  
+- View **leaderboard** of top-performing teachers.  
 
 ---
 
-## Working Flow
-
-### 1️⃣ Registration / Login
-- Users select their role (**Teacher** or **Student**) during sign-up.  
-- Secure login with validation and role-based dashboard redirection.
-
-### 2️⃣ Teacher Dashboard
-- Access to “Courses”, “Assignments”, “Grades”, “Roadmaps”, “Badges”, and “Circulars”.  
-- Ability to post, evaluate, and communicate seamlessly.
-
-### 3️⃣ Student Dashboard
-- Displays enrolled courses, assignments, grades, badges, and notifications.  
-- Students can interact, learn, and stay updated through the dashboard interface.
+### 👨‍🎓 Student Functionalities
+- Browse and **enroll** in available courses.  
+- Access **learning materials** and submit assignments.  
+- View **grades and performance** through downloadable CSV.  
+- Track **badges and points** earned through assessments.  
+- Follow **teacher-created roadmaps** for structured learning.  
+- Receive **notifications** for updates, new courses, or circulars.  
+- Interact through the **“Have a Doubt?”** section.
 
 ---
 
-## Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js / Express.js  
-- **Database:** versal 
-- **Authentication:** Base44 Auth  
-- **File Storage:** Cloud Storage  
-- **Version Control:** GitHub  
+### ✨ Additional Features
+- **Grade Sheet Export (CSV)**  
+- **Badges & Points System**  
+- **Leaderboard for Teachers**  
+- **In-App Notifications**  
+- **AI-powered Roadmaps (Future Ready)**
 
 ---
 
-## Setup Instructions
+## ⚙️ Working Flow
 
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/v/Vignan-Hub-AV.git
-   cd vignan-hub
-   ```
+### 🧩 1️⃣ Registration & Login
+- Role-based sign-up (Teacher or Student).  
+- Authenticated access with Base44 Auth integration.  
 
-2. **Install dependencies:**  
-   ```bash
-   npm install
-   ```
+### 🧭 2️⃣ Teacher Dashboard
+- Manage courses, assignments, and roadmaps.  
+- Evaluate students and post circulars.
 
-3. **Setup environment variables:**  
-   Create a `.env` file with required API keys and database URLs.  
-
-4. **Run the development server:**  
-   ```bash
-   npm start
-   ```
-
-5. **Access the app:**  
-   Open your browser and go to `http://localhost:3000`
+### 🎓 3️⃣ Student Dashboard
+- View enrolled courses, grades, and badges.  
+- Submit work and track progress.
 
 ---
 
-## Future Enhancements
-- Integration with AI for personalized learning suggestions.  
-- Real-time chat and discussion forum.  
-- Mobile app support for Android/iOS.  
-- Advanced analytics for performance tracking.
+## 🧰 Tech Stack
+
+| Layer | Technologies |
+|--------|---------------|
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | Versal |
+| **Authentication** | Base44 Auth |
+| **Storage** | Cloud Storage |
+| **Version Control** | GitHub |
 
 ---
 
-## Contact
-**Team AV CodeHack**  
-For queries , reach us at: [venupasumurthy0509@gmail.com] and phone:8106938278
+## 🧱 System Architecture
 
-
-
-
+```mermaid
+flowchart TD
+    A[User] -->|Login/Signup| B[Base44 Auth Service]
+    B --> C{Role Check}
+    C -->|Teacher| D[Teacher Dashboard]
+    C -->|Student| E[Student Dashboard]
+    D --> F[Course Management Service]
+    D --> G[Assignment Service]
+    D --> H[Gradebook & Badge System]
+    E --> I[Course Enrollment Service]
+    E --> J[Submission Handler]
+    H --> K[Database (Versal)]
+    I --> K
+    J --> K
+    F --> K
+    G --> K

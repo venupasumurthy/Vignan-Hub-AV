@@ -7,7 +7,7 @@
 
 🥇 **Team Name:** AV CodeHack  
 
-![Vignan HUB Banner](https://raw.githubusercontent.com/<username>/<repo>/main/assets/images/banner.png)
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 
 </div>
@@ -107,6 +107,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 |------|------|-----------|
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
+
 
 
 

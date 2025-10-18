@@ -76,7 +76,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🧱 Architecture Diagram :
 
-![Vignan HUB Banner]([https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram.jpg?raw=true](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram%201.jpg?raw=true))
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram%201.jpg?raw=true)
 
 ---
 
@@ -106,6 +106,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 |------|------|-----------|
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
+
 
 
 

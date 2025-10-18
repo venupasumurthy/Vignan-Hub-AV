@@ -97,7 +97,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🧱 Flow of code Diagram :
 
-![Vignan HUB Banner]()
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Flow%20of%20Code.jpg?raw=true)
 
 ---
 
@@ -107,6 +107,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 |------|------|-----------|
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
+
 
 
 

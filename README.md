@@ -15,7 +15,7 @@ The platform allows easy management of courses, assignments, grades, and communi
 ## Team
 **Team Name:** AV CodeHack  
 **Members:**  
-- (Pasumurthy Venu Munendra Kumar , Natesan Aiswarya)
+- (Pasumurthy Venu Munendra Kumar , Natesan Aishwarya)
 **Linked In:**  
 - **Members:**  
 - https://www.linkedin.com/in/venupasumurthy/
@@ -125,3 +125,4 @@ The platform allows easy management of courses, assignments, grades, and communi
 ## Contact
 **Team AV CodeHack**  
 For queries , reach us at: [venupasumurthy0509@gmail.com] and phone:8106938278
+

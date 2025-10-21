@@ -19,6 +19,16 @@ export const CourseMaterial = base44.entities.CourseMaterial;
 
 export const Discussion = base44.entities.Discussion;
 
+export const Quiz = base44.entities.Quiz;
+
+export const QuizAttempt = base44.entities.QuizAttempt;
+
+export const StudentRemark = base44.entities.StudentRemark;
+
+export const Feedback = base44.entities.Feedback;
+
+export const CourseResource = base44.entities.CourseResource;
+
 
 
 // auth sdk:

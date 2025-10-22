@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Vignan HUB Logo" width="120" height="120">
+  <img src="src/logo.png" alt="Vignan HUB Logo" width="120" height="120">
 </p>
 <div align="center">
 
@@ -143,5 +143,6 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 

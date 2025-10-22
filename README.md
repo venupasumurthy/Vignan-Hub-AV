@@ -1,11 +1,17 @@
 <div align="center">
 
-# 🧠 **Vignan HUB**  
-### _"Driven by purpose, powered by code"_
+# 🧠 **Vignan HUB**
+# Learning Management System (LMS)
+### _"Empowering smart education through innovation and collaboration"_
 
-🌐 **Live Project:** [https://vignan-hub-av.base44.app](https://vignan-hub-av.base44.app)  
+🌐 **Live Project:** [Vignan HUB App](https://vignan-hub-7ad1fdd2.base44.app/)  
+### 👨‍💻 Team: **AV CodeHack**
 
-🥇 **Team Name:** AV CodeHack  
+![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)
+![Static Badge](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Static Badge](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
+
 
 ![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
@@ -22,12 +28,37 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🚀 Project Features
 
-### 🔐 Authentication
-- Secure **Sign Up / Sign In** for both students and teachers.  
-- Role-based dashboards for **Teachers** and **Students**.
+### 🔐 **User Authentication**
+- Secure **Signup** and **Login** for **Teachers** and **Students**.  
+- Role-based access ensures custom dashboards for each user type.  
+- Authentication with user role selection (Teacher / Student).  
 
 ---
-
+### 📚 **Course Management**
+- **Teachers** can **add, update, and delete** courses.  
+- Ability to upload **roadmaps**, **materials**, and **resources**.  
+- **Students** can **enroll**, **view**, and **access** courses easily.  
+---
+### 🧠 **Quiz Section**
+- **Teachers** can **create, edit, and publish** quizzes with multiple-choice questions (MCQs).  
+- Each question supports **four options** and **one correct answer**.  
+- **Students** can attempt quizzes and receive instant results:
+  - ✅ Total Questions  
+  - 🎯 Correct and Wrong Answers  
+  - 🏁 Final Score and Percentage  
+- **Teachers** can view and analyze student performance.  
+---
+### 🎥 **Live Class Section**
+- **Teachers** can add and share **YouTube live class links** with title, subject, date, and time.  
+- **Students** can directly **join live or recorded sessions** via clickable links.  
+- Past sessions remain accessible for **replay and revision**.  
+- Teachers can edit or delete live class links anytime.  
+---
+### 🗒️ **Remark Section**
+- **Teachers** can add remarks for each student, including **attendance**, **behavior**, or **performance**.  
+- **Parents** can view teacher remarks and **submit complaints or feedback** about teachers.  
+- **Admins** can review and manage all complaints for transparency and accountability.  
+---
 ### 👩‍🏫 Teacher Functionalities
 - Create and manage **courses** with materials and resources.  
 - Upload **assignments** and set submission deadlines.  
@@ -51,27 +82,25 @@ It enables seamless management of courses, assignments, grades, and communicatio
 ---
 
 ### ✨ Additional Features
+- 💬 Real-time **chat** and **doubt-solving** module.  
+- 📊 **AI-based performance tracking** and personalized analytics.  
+- 🔔 **Push notifications** for quizzes and live classes.  
+- 📁 Export **grades, remarks, and results** as CSV or PDF files.  
 - **Points Based Education**
-- **Doubts Solving in every Course**
-- **Grade Sheet Export (CSV)**  
 - **Badges & Points System**  
-- **Teacher Leaderboard**  
+- **Student Leaderboard**  
 - **In-App Notifications**  
 - **AI-powered Roadmaps (Future Scope)**  
 
 ---
 
-## ⚙️ Working Flow
+## 🧭 **Workflow Summary**
 
-### 🧩 1️⃣ Registration & Login
-- Role-based authentication using **Base44 Auth**.  
-- Users select their role (**Teacher** or **Student**) at signup.  
-
-### 🧭 2️⃣ Teacher Dashboard
-- Manage **courses**, **assignments**, **grades**, and **announcements**.  
-
-### 🎓 3️⃣ Student Dashboard
-- Access **courses**, **assignments**, **grades**, and **badges** in one interface.  
+1. 🔑 **Login / Register** as Teacher or Student.  
+2. 👩‍🏫 **Teachers** create courses, upload content, add quizzes, and share live class links.  
+3. 👨‍🎓 **Students** enroll in courses, attempt quizzes, and join live classes.  
+4. 👨‍👩‍👧 **Parents** view remarks and submit complaints if needed.  
+5. 🧾 **Admins** manage feedback and maintain platform integrity.
 
 ---
 
@@ -101,17 +130,14 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ---
 
-## 👥 Team
+## 🧑‍💻 **Developed By**
+
+### 👥 **Team AV CodeHack**
+> Empowering smart education through innovation and collaboration.
 
 | Name | Role | LinkedIn |
 |------|------|-----------|
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
-
-
-
-
-
-
-
+⭐ **If you like this project, consider giving it a star on GitHub!**

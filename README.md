@@ -142,7 +142,9 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
 📧 **Contact:** venupasumurthy0509@gmail.com
+---
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 
 

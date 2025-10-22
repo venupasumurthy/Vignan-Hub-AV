@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="logo.png" alt="Vignan HUB Logo" width="120" height="120">
+</p>
 <div align="center">
 
 # 🧠 **Vignan HUB**
 # Learning Management System (LMS)
 ### _"Empowering smart education through innovation and collaboration"_
 
-🌐 **Live Project:** [Vignan HUB App](https://vignan-hub-7ad1fdd2.base44.app/)  
+🌐 **Live Project:** [Vignan HUB App](https://vignan-hub-av.base44.app)  
 ### 👨‍💻 Team: **AV CodeHack**
 
-![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)
+[![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)](https://vignan-hub-av.base44.app)
 ![Static Badge](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Static Badge](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
 
 
@@ -141,3 +143,4 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+

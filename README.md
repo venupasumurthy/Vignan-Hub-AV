@@ -141,9 +141,10 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
-📧 **Contact:** venupasumurthy0509@gmail.com
+#📧 **Contact:** venupasumurthy0509@gmail.com
 ---
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 
 

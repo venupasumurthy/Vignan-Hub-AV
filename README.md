@@ -107,7 +107,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🧱 Architecture Diagram :
 
-![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram%201.jpg?raw=true)
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram.jpg?raw=true)
 
 ---
 
@@ -144,6 +144,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 📧 **Contact:** venupasumurthy0509@gmail.com
 ---
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 
 

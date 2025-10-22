@@ -118,7 +118,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 |--------|---------------|
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
-| **Database** | Versal |
+| **Database** | Base44 |
 | **Authentication** | Base44 Auth |
 | **File Storage** | Cloud Storage |
 | **Version Control** | GitHub |
@@ -144,6 +144,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 📧 **Contact:** venupasumurthy0509@gmail.com
 ---
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 
 

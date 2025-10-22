@@ -8,7 +8,6 @@
 ### _"Empowering smart education through innovation and collaboration"_
 
 🌐 **Live Project:** [Vignan HUB App](https://vignan-hub-av.base44.app)  
-### 👨‍💻 Team: **AV CodeHack**
 
 [![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)](https://vignan-hub-av.base44.app)
 [![Static Badge](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://vignan-hub-av.base44.app)
@@ -142,7 +141,9 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | **Pasumurthy Venu Munendra Kumar** | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy/) |
 | **Natesan Aishwarya** | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 
+📧 **Contact:** venupasumurthy0509@gmail.com
 ⭐ **If you like this project, consider giving it a star on GitHub!**
+
 
 
 

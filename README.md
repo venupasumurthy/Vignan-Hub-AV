@@ -144,3 +144,4 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ⭐ **If you like this project, consider giving it a star on GitHub!**
 
+

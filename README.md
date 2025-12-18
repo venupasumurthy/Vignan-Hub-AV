@@ -132,7 +132,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 | Name | Role | LinkedIn |
 |------|------|-----------|
-| *Natesan Aishwarya* | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy) |
+| *Venu Munendra Kumar Pasumurthy* | Team Lead | [LinkedIn](https://www.linkedin.com/in/venupasumurthy) |
 | *Natesan Aishwarya* | Developer | [LinkedIn](http://www.linkedin.com/in/aishwarya-natesan-bb48a1360) |
 ---
 📧 *Contact:*

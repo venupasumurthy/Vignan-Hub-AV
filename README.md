@@ -14,7 +14,7 @@
 [![Static Badge](https://img.shields.io/badge/Version-1.2.0-orange?style=flat-square)](https://main.d1a3hk8x2zl4bw.amplifyapp.com/)
 
 
-![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/src/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 
 </div>
@@ -107,7 +107,7 @@ It enables seamless management of courses, assignments, grades, and communicatio
 
 ## 🧱 Architecture Diagram :
 
-![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Arch%20Diagram.jpg?raw=true)
+![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/src/flow.png?raw=true)
 
 ---
 
@@ -122,12 +122,6 @@ It enables seamless management of courses, assignments, grades, and communicatio
 | *Authentication* | AWS |
 | *File Storage* | Cloud Storage (AWS)  |
 | *Version Control* | GitHub |
-
----
-
-## 🧱 Flow of code Diagram :
-
-![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/Flow%20of%20Code.jpg?raw=true)
 
 ---
 

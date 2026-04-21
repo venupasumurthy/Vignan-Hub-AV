@@ -7,11 +7,11 @@
 # Learning Management System (LMS)
 ### "Empowering smart education through innovation and collaboration"
 
-🌐 *Live Project:* [Vignan HUB App](https://main.d1a3hk8x2zl4bw.amplifyapp.com/)  
+🌐 *Live Project:* [Vignan HUB App](https://vignanhub.vercel.app/)  
 
-[![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)](https://main.d1a3hk8x2zl4bw.amplifyapp.com/)
-[![Static Badge](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://main.d1a3hk8x2zl4bw.amplifyapp.com/)
-[![Static Badge](https://img.shields.io/badge/Version-1.2.0-orange?style=flat-square)](https://main.d1a3hk8x2zl4bw.amplifyapp.com/)
+[![Static Badge](https://img.shields.io/badge/Project-VignanHUB-blue?style=flat-square&logo=github)](https://vignanhub.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://vignanhub.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/Version-1.2.0-orange?style=flat-square)](https://vignanhub.vercel.app/)
 
 
 ![Vignan HUB Banner](https://github.com/venupasumurthy/Vignan-Hub-AV/blob/main/src/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
